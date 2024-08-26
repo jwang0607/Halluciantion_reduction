@@ -1,0 +1,3051 @@
+[
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291138362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291138862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291139362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291139862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291140362404.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 0
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291138362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291138862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291139362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291139862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291140362404.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 1
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291138362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291138862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291139362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291139862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291140362404.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 2
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291138362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291138862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291139362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291139862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291140362404.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 3
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621873162404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 4
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621873162404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 5
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621873162404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 6
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621873162404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 7
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621873162404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 8
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621871612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621872612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621873162404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 9
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885617912743.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618412470.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618912467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619413233.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619912464.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a pedestrian, <ins2> is a pedestrian.",
+        "id": 10
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885617912743.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618412470.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618912467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619413233.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619912464.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a pedestrian, <ins2> is a pedestrian.",
+        "id": 11
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885617912743.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618412470.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618912467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619413233.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619912464.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a pedestrian, <ins2> is a pedestrian.",
+        "id": 12
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885617912743.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618412470.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618912467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619413233.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619912464.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a pedestrian, <ins2> is a pedestrian.",
+        "id": 13
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885617912743.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618412470.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618912467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619413233.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619912464.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a pedestrian, <ins2> is a pedestrian.",
+        "id": 14
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885617912743.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618412470.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885618912467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619413233.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885619912464.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a pedestrian, <ins2> is a pedestrian.",
+        "id": 15
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708055612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057512404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is stopped, <ins2> is moving, <ins3> is moving.",
+        "id": 16
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708055612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057512404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is stopped, <ins2> is moving, <ins3> is moving.",
+        "id": 17
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708055612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057512404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is stopped, <ins2> is moving, <ins3> is moving.",
+        "id": 18
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708055612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057512404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is stopped, <ins2> is moving, <ins3> is moving.",
+        "id": 19
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708055612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057512404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is stopped, <ins2> is moving, <ins3> is moving.",
+        "id": 20
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708055612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708056612404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708057512404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is stopped, <ins2> is moving, <ins3> is moving.",
+        "id": 21
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573189162404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 22
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573189162404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 23
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573189162404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 24
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573189162404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 25
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573189162404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 26
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573187662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573188662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573189162404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 27
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295823912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825912404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 28
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295823912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825912404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 29
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295823912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825912404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 30
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295823912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825912404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 31
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295823912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825912404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 32
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295823912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295824912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-14-35-12-0400__CAM_FRONT__1537295825912404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 33
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621838662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840662404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 34
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621838662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840662404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 35
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621838662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840662404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 36
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621838662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840662404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 37
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621838662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840662404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 38
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621838662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621839662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621840662404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 39
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573877412404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 40
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573877412404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 41
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573877412404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 42
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573877412404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 43
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573877412404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 44
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573875912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573876912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573877412404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 45
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915382512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384512465.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 46
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915382512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384512465.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 47
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915382512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384512465.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 48
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915382512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384512465.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 49
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915382512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384512465.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 50
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915382512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915383512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915384512465.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 51
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657363162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657363662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657364162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657364662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657365162404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 52
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657363162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657363662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657364162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657364662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657365162404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 53
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657363162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657363662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657364162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657364662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657365162404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 54
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657363162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657363662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657364162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657364662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535657365162404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 55
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659561912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562912410.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563912404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 56
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659561912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562912410.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563912404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 57
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659561912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562912410.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563912404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 58
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659561912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562912410.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563912404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 59
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659561912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562912410.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563912404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 60
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659561912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659562912410.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659563912404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 61
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114269112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114269612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114270162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114270662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114271162460.jpg"
+        ],
+        "question": "What is the turning status of the ego vehicle?",
+        "answer": "The ego vehicle is turning left.",
+        "id": 62
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114269112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114269612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114270162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114270662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114271162460.jpg"
+        ],
+        "question": "What is the turning status of the ego vehicle?",
+        "answer": "The ego vehicle is turning left.",
+        "id": 63
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114269112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114269612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114270162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114270662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114271162460.jpg"
+        ],
+        "question": "What is the turning status of the ego vehicle?",
+        "answer": "The ego vehicle is turning left.",
+        "id": 64
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114269112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114269612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114270162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114270662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114271162460.jpg"
+        ],
+        "question": "What is the turning status of the ego vehicle?",
+        "answer": "The ego vehicle is turning left.",
+        "id": 65
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153527162404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 66
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153527162404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 67
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153527162404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 68
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153527162404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 69
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153527162404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 70
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153525662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153526662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153527162404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 71
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292781162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292781662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292782162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292782662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292783162404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 72
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292781162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292781662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292782162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292782662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292783162404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 73
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292781162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292781662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292782162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292782662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292783162404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 74
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292781162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292781662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292782162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292782662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292783162404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 75
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708390412404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 76
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708390412404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 77
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708390412404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 78
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708390412404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 79
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708390412404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 80
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708388912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708389912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708390412404.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 81
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659551362404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 82
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659551362404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 83
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659551362404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 84
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659551362404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 85
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659551362404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 86
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659549912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659550862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659551362404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 87
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107515412460.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 88
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107515412460.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 89
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107515412460.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 90
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107515412460.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 91
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107515412460.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 92
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107513912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107514912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107515412460.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 93
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290786012404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 94
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290786012404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 95
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290786012404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 96
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290786012404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 97
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290786012404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 98
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290784512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290785512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290786012404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 99
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151069012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151069512443.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151070012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151070512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151071012404.jpg"
+        ],
+        "question": "Will there be any objects merge in ego lane?",
+        "answer": "No, no vehicle will merge in.",
+        "id": 100
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151069012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151069512443.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151070012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151070512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151071012404.jpg"
+        ],
+        "question": "Will there be any objects merge in ego lane?",
+        "answer": "No, no vehicle will merge in.",
+        "id": 101
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151069012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151069512443.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151070012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151070512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151071012404.jpg"
+        ],
+        "question": "Will there be any objects merge in ego lane?",
+        "answer": "No, no vehicle will merge in.",
+        "id": 102
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151069012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151069512443.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151070012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151070512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151071012404.jpg"
+        ],
+        "question": "Will there be any objects merge in ego lane?",
+        "answer": "No, no vehicle will merge in.",
+        "id": 103
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885987412463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885988012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885988512464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885989012464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885989512464.jpg"
+        ],
+        "question": "Will there be any objects merge in ego lane?",
+        "answer": "No, no vehicle will merge in.",
+        "id": 104
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885987412463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885988012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885988512464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885989012464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885989512464.jpg"
+        ],
+        "question": "Will there be any objects merge in ego lane?",
+        "answer": "No, no vehicle will merge in.",
+        "id": 105
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885987412463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885988012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885988512464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885989012464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885989512464.jpg"
+        ],
+        "question": "Will there be any objects merge in ego lane?",
+        "answer": "No, no vehicle will merge in.",
+        "id": 106
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885987412463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885988012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885988512464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885989012464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885989512464.jpg"
+        ],
+        "question": "Will there be any objects merge in ego lane?",
+        "answer": "No, no vehicle will merge in.",
+        "id": 107
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959912405.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292960412404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 108
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959912405.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292960412404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 109
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959912405.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292960412404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 110
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959912405.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292960412404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 111
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959912405.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292960412404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 112
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292958912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292959912405.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292960412404.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 113
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153730912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732912404.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is front left to ego, <ins2> is front right to ego, <ins3> is front right to ego.",
+        "id": 114
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153730912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732912404.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is front left to ego, <ins2> is front right to ego, <ins3> is front right to ego.",
+        "id": 115
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153730912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732912404.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is front left to ego, <ins2> is front right to ego, <ins3> is front right to ego.",
+        "id": 116
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153730912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732912404.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is front left to ego, <ins2> is front right to ego, <ins3> is front right to ego.",
+        "id": 117
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153730912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732912404.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is front left to ego, <ins2> is front right to ego, <ins3> is front right to ego.",
+        "id": 118
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153730912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153731912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153732912404.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is front left to ego, <ins2> is front right to ego, <ins3> is front right to ego.",
+        "id": 119
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151063912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151064362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151064862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151065412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151065912404.jpg"
+        ],
+        "question": "What is the turning status of the ego vehicle?",
+        "answer": "The ego vehicle is moving forward.",
+        "id": 120
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151063912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151064362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151064862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151065412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151065912404.jpg"
+        ],
+        "question": "What is the turning status of the ego vehicle?",
+        "answer": "The ego vehicle is moving forward.",
+        "id": 121
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151063912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151064362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151064862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151065412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151065912404.jpg"
+        ],
+        "question": "What is the turning status of the ego vehicle?",
+        "answer": "The ego vehicle is moving forward.",
+        "id": 122
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151063912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151064362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151064862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151065412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151065912404.jpg"
+        ],
+        "question": "What is the turning status of the ego vehicle?",
+        "answer": "The ego vehicle is moving forward.",
+        "id": 123
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487687262404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 124
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487687262404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 125
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487687262404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 126
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487687262404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 127
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487687262404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 128
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487685762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487686762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535487687262404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 129
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885344912464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345412469.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346862460.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 130
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885344912464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345412469.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346862460.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 131
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885344912464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345412469.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346862460.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 132
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885344912464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345412469.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346862460.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 133
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885344912464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345412469.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346862460.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 134
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885344912464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345412469.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885345912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-41-49+0800__CAM_FRONT__1531885346862460.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 135
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402158114769.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is turning left.",
+        "id": 136
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402158114769.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is turning left.",
+        "id": 137
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402158114769.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is turning left.",
+        "id": 138
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402158114769.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is turning left.",
+        "id": 139
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402158114769.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is turning left.",
+        "id": 140
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402156612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402157612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402158114769.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is turning left.",
+        "id": 141
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618412465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618912465.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 142
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618412465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618912465.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 143
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618412465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618912465.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 144
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618412465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618912465.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 145
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618412465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618912465.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 146
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617512465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915617912465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618412465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618912465.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 147
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452412490.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281454362460.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is moving.",
+        "id": 148
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452412490.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281454362460.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is moving.",
+        "id": 149
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452412490.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281454362460.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is moving.",
+        "id": 150
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452412490.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281454362460.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is moving.",
+        "id": 151
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452412490.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281454362460.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is moving.",
+        "id": 152
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452412490.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281452912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281453862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-11-11-54-16+0800__CAM_FRONT__1531281454362460.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is moving.",
+        "id": 153
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292613162404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 154
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292613162404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 155
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292613162404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 156
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292613162404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 157
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292613162404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 158
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292611762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292612762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292613162404.jpg"
+        ],
+        "question": "What is the moving status of the referred object?",
+        "answer": "This object is parked.",
+        "id": 159
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659239262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659239762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659240262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659240762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659241362404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 160
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659239262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659239762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659240262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659240762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659241362404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 161
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659239262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659239762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659240262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659240762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659241362404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 162
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659239262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659239762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659240262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659240762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659241362404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 163
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884104112478.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884104662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884105112464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884105612465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884106112465.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 164
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884104112478.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884104662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884105112464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884105612465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884106112465.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 165
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884104112478.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884104662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884105112464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884105612465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884106112465.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 166
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884104112478.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884104662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884105112464.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884105612465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884106112465.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 167
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290673762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675762404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 168
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290673762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675762404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 169
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290673762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675762404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 170
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290673762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675762404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 171
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290673762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675762404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 172
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290673762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290674762404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675262404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290675762404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance.",
+        "id": 173
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112984412460.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 174
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112984412460.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 175
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112984412460.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 176
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112984412460.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 177
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112984412460.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 178
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983412460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112983912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112984412460.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front straight to ego, <ins2> is front straight to ego.",
+        "id": 179
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915297862465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915298362465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915298862465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915299362465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915299862465.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 180
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915297862465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915298362465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915298862465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915299362465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915299862465.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 181
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915297862465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915298362465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915298862465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915299362465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915299862465.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 182
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915297862465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915298362465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915298862465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915299362465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915299862465.jpg"
+        ],
+        "question": "Are there objects too close to ego?",
+        "answer": "No, all objects remain a safe distance to ego.",
+        "id": 183
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659414662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416662404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 184
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659414662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416662404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 185
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659414662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416662404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 186
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659414662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416662404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 187
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659414662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416662404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 188
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659414662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659415662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659416662404.jpg"
+        ],
+        "question": "What is the turning status of the referred object?",
+        "answer": "This object is not turning.",
+        "id": 189
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113034512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036512460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 190
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113034512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036512460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 191
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113034512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036512460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 192
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113034512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036512460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 193
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113034512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036512460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 194
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113034512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113035512460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036012460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533113036512460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front left to ego.",
+        "id": 195
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932162460.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 196
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932162460.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 197
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932162460.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 198
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932162460.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 199
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932162460.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 200
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930112460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402930612460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931162460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402931662460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402932162460.jpg"
+        ],
+        "question": "What is the distance of the referred object?",
+        "answer": "This object remains a safe distance.",
+        "id": 201
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659231912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233912404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance, <ins3> remains a safe distance.",
+        "id": 202
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659231912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233912404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance, <ins3> remains a safe distance.",
+        "id": 203
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659231912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233912404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance, <ins3> remains a safe distance.",
+        "id": 204
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659231912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233912404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance, <ins3> remains a safe distance.",
+        "id": 205
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659231912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233912404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance, <ins3> remains a safe distance.",
+        "id": 206
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659231912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659232912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-52-26-0400__CAM_FRONT__1535659233912404.jpg"
+        ],
+        "question": "What is the distance of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> remains a safe distance, <ins2> remains a safe distance, <ins3> remains a safe distance.",
+        "id": 207
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402857912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859862460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 208
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402857912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859862460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 209
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402857912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859862460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 210
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402857912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859862460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 211
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402857912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859862460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 212
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402857912460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402858862460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859362460.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402859862460.jpg"
+        ],
+        "question": "What is the position of the referred object?",
+        "answer": "This object is front right to ego.",
+        "id": 213
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867404912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406862404.jpg"
+        ],
+        "question": "What is the merge-in status of the referred object?",
+        "answer": "This object will not merge in.",
+        "id": 214
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867404912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406862404.jpg"
+        ],
+        "question": "What is the merge-in status of the referred object?",
+        "answer": "This object will not merge in.",
+        "id": 215
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867404912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406862404.jpg"
+        ],
+        "question": "What is the merge-in status of the referred object?",
+        "answer": "This object will not merge in.",
+        "id": 216
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867404912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406862404.jpg"
+        ],
+        "question": "What is the merge-in status of the referred object?",
+        "answer": "This object will not merge in.",
+        "id": 217
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867404912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406862404.jpg"
+        ],
+        "question": "What is the merge-in status of the referred object?",
+        "answer": "This object will not merge in.",
+        "id": 218
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867404912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867405912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867406862404.jpg"
+        ],
+        "question": "What is the merge-in status of the referred object?",
+        "answer": "This object will not merge in.",
+        "id": 219
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867209912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211862404.jpg"
+        ],
+        "question": "What is the turning status of <ins1>, <ins2>?",
+        "answer": "The status of <ins1> is turning left, the status of <ins2> is turning left.",
+        "id": 220
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867209912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211862404.jpg"
+        ],
+        "question": "What is the turning status of <ins1>, <ins2>?",
+        "answer": "The status of <ins1> is turning left, the status of <ins2> is turning left.",
+        "id": 221
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867209912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211862404.jpg"
+        ],
+        "question": "What is the turning status of <ins1>, <ins2>?",
+        "answer": "The status of <ins1> is turning left, the status of <ins2> is turning left.",
+        "id": 222
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867209912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211862404.jpg"
+        ],
+        "question": "What is the turning status of <ins1>, <ins2>?",
+        "answer": "The status of <ins1> is turning left, the status of <ins2> is turning left.",
+        "id": 223
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867209912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211862404.jpg"
+        ],
+        "question": "What is the turning status of <ins1>, <ins2>?",
+        "answer": "The status of <ins1> is turning left, the status of <ins2> is turning left.",
+        "id": 224
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867209912404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210412404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867210862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-21-11-53-44-0400__CAM_FRONT__1534867211862404.jpg"
+        ],
+        "question": "What is the turning status of <ins1>, <ins2>?",
+        "answer": "The status of <ins1> is turning left, the status of <ins2> is turning left.",
+        "id": 225
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573624862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573625362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573625862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573626362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573626862404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 226
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573624862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573625362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573625862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573626362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573626862404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 227
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573624862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573625362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573625862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573626362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573626862404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 228
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573624862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573625362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573625862404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573626362404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573626862404.jpg"
+        ],
+        "question": "Will there be any objects merge out of ego lane?",
+        "answer": "No, no vehicle will merge out.",
+        "id": 229
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258012467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258512467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259512463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884260012471.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front right to ego, <ins2> is front right to ego.",
+        "id": 230
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258012467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258512467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259512463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884260012471.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front right to ego, <ins2> is front right to ego.",
+        "id": 231
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258012467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258512467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259512463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884260012471.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front right to ego, <ins2> is front right to ego.",
+        "id": 232
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258012467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258512467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259512463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884260012471.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front right to ego, <ins2> is front right to ego.",
+        "id": 233
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258012467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258512467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259512463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884260012471.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front right to ego, <ins2> is front right to ego.",
+        "id": 234
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258012467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884258512467.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259012465.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884259512463.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884260012471.jpg"
+        ],
+        "question": "What is the position of <ins1>, <ins2>?",
+        "answer": "<ins1> is front right to ego, <ins2> is front right to ego.",
+        "id": 235
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293323662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325162530.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325612404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 236
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293323662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325162530.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325612404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 237
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293323662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325162530.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325612404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 238
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293323662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325162530.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325612404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 239
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293323662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325162530.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325612404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 240
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293323662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324162404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293324662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325162530.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293325612404.jpg"
+        ],
+        "question": "What is the category of the referred object?",
+        "answer": "This object is a vehicle.",
+        "id": 241
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630612442.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631162627.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656632162404.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a vehicle, <ins2> is a vehicle.",
+        "id": 242
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630612442.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631162627.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656632162404.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a vehicle, <ins2> is a vehicle.",
+        "id": 243
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630612442.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631162627.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656632162404.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a vehicle, <ins2> is a vehicle.",
+        "id": 244
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630612442.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631162627.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656632162404.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a vehicle, <ins2> is a vehicle.",
+        "id": 245
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630612442.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631162627.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656632162404.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a vehicle, <ins2> is a vehicle.",
+        "id": 246
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630112404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656630612442.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631162627.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656631662404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-30-15-16-55-0400__CAM_FRONT__1535656632162404.jpg"
+        ],
+        "question": "What is the category of <ins1>, <ins2>?",
+        "answer": "<ins1> is a vehicle, <ins2> is a vehicle.",
+        "id": 247
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729104012404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 248
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729104012404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 249
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729104012404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 250
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729104012404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 251
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729104012404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 252
+    },
+    {
+        "image": [
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729102512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103012404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729103512404.jpg",
+            "data/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729104012404.jpg"
+        ],
+        "question": "What is the attribute of <ins1>, <ins2>, <ins3>?",
+        "answer": "<ins1> is parked, <ins2> is parked, <ins3> is parked.",
+        "id": 253
+    }
+]
+    
